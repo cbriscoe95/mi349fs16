@@ -1,18 +1,44 @@
 /* Add your CSS below */
 
+
+
 /* Example: adding a background color to the HTML body */
 body {
   /* #ccc is shorthand HEX for a light grey */
-  background: #ccc;
+    background-color: #eeede8;
+}
+
+
+#bannerText{
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    padding-left: 50px;
+    background-color: darkblue;
+    margin-left: 50px;
+    margin-right: 100px;
+    padding-left: 100px;
+}
+
+
+h1{
+    font-family: "Georgia", "Times New Roman", serif;
+    font-weight: bold;
+     color: darkblue;
 }
 
 h2{
-    float: right;
+    
     padding-right: 100px;
-    padding-left: 100px;
+    padding-left: 50px;
+    color: darkblue;
+    font-weight: 100;
 }
 
 #chris{
     float: left;
-    padding-left: 100px;
+    margin-left: 50px;
+    margin-right: 20px;
+    border-style: solid;
+    border-color: darkblue;
 }
