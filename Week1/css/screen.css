@@ -5,7 +5,7 @@
 /* Example: adding a background color to the HTML body */
 body {
   /* #ccc is shorthand HEX for a light grey */
-    background-color: #eeede8;
+    background-color: #2B2B2B;
 }
 
 
@@ -14,9 +14,8 @@ body {
     font-size: 50px;
     text-align: center;
     padding-left: 50px;
-    background-color: darkblue;
-    margin-left: 50px;
-    margin-right: 100px;
+    background-color: #4A96AD;
+
     padding-left: 100px;
 }
 
@@ -24,14 +23,17 @@ body {
 h1{
     font-family: "Georgia", "Times New Roman", serif;
     font-weight: bold;
-     color: darkblue;
+     color:#F6F6F6;
+    background-color: #4A96AD;
+    margin-left: 290px;
+    margin-right: 100px;
 }
 
 h2{
     
     padding-right: 100px;
     padding-left: 50px;
-    color: darkblue;
+    color: #F6F6F6;
     font-weight: 100;
 }
 
@@ -40,5 +42,6 @@ h2{
     margin-left: 50px;
     margin-right: 20px;
     border-style: solid;
-    border-color: darkblue;
+    border-color: #F6F6F6;
 }
+
