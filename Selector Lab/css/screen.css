@@ -1,0 +1,34 @@
+/* Add your CSS below */
+
+/* Example: adding a background color to the HTML body */
+body {
+  /* #ccc is shorthand HEX for a light grey */
+  background: #ccc;
+}
+
+.countrynav{
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+.countryfacts{
+    background: red;
+    color: white;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+#usfacts{
+    
+    margin-right: 100px;
+    margin-left: 100px;
+    background-color: blue;
+    color: white;
+}
+
+#canfacts{
+    margin-right: 100px;
+    margin-left: 100px;
+    background-color: red;
+    color: white;
+}
