@@ -1,0 +1,76 @@
+/* Add your CSS below */
+
+/* Example: adding a background color to the HTML body */
+body {
+  /* #ccc is shorthand HEX for a light grey */
+  background:white;
+    text-align: center;
+    
+}
+
+#muffins{
+    text-align: left;
+    font-size: 90%;
+    background: linear-gradient( 45deg,#D1913C, #FFD194 );
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 15px;
+    margin-right: 10%;
+    margin-left: 10%;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px 10px #888888;
+    padding-top: 2px;
+  
+        
+}
+
+#fries{
+    align-content: center;
+    margin-top: 10px;
+    text-align: left;
+    font-size: 90%;
+    background: linear-gradient( 45deg,#FFA17F,  #00223E );  
+    padding-left: 10px;
+    margin-right: 10%;
+    margin-left: 10%;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px 10px #888888;
+    padding-bottom: 5px;
+    padding-top: 2px;
+        
+}
+
+#steak{
+    align-content: center;
+    margin-top: 10px;
+    text-align: left;
+    font-size: 90%;
+    background: linear-gradient( 45deg,#485563,  #29323c );  
+    padding-left: 10px;
+    margin-right: 10%;
+    margin-left: 10%;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px 10px #888888;
+    padding-bottom: 5px;
+    padding-top: 2px;
+    color: white;
+        
+}
+
+#muffinspic{
+    height: 250px;
+    float: right;
+    margin-right: 1%;
+}
+
+#friespic{
+    height: 250px;
+    float: right;
+    margin-right: 2%;
+}
+
+#steakpic{
+    height: 190px;
+    float: right;
+    margin-right: 2.5%
+}
