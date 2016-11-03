@@ -1,0 +1,11 @@
+Christian Briscoe
+Content Sections
+Home Page:
+On home page, under splash image include small About Me section. Just a few sentences about who I am. 
+About me: Hi! I’m Christian Briscoe, a student at Michigan State University who’s on a journey to learn web and game design. (Expand further, not sure if I should write content in this section about who I am now or who I’ll be when I’m actually trying to find work post college.)
+A few fun facts about myself: just a few fun quips about who I am. 
+Work:
+Resume, web design, and game design sections. Web Design and Game Design sections will image links which take the user to the relevant project.
+Blog:
+Consolidated all “fun” content from card sort into blog page. This is all non-resume work will live. Content will include posts about video games and movies (reviews, less-structured general thoughts about some form of content), my progress as a web designer (I’ve taken two classes in my junior and senior year and I’m beginning to love it), and progress doing game design. More stream of consciousness style, than a very structed blog (but maintaining a consistent posting schedule of some kind).
+
